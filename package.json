@@ -1,0 +1,22 @@
+{
+  "name": "web-lab",
+  "version": "1.0.0",
+  "description": "Meu laboratório pessoal de aprendizagem da web moderna",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonatandca/web-lab.git"
+  },
+  "author": "jonatan dca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonatandca/web-lab/issues"
+  },
+  "homepage": "https://github.com/jonatandca/web-lab#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
